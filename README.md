@@ -1,12 +1,11 @@
 <body>
   <div align="center">
     <h1> 👋 Bem Vindo ao meu Perfil</h1>
-  <img align="center" src= "https://64.media.tumblr.com/0b858b695f0a332f2f9b212a9d9af9ec/tumblr_n3gd299LU91rq7boso1_500.gif" />
-  </div>
-<br>
+  
 
 <div>
 
+   ![animação](https://github.com/LeNinjaRed/pacman-contribution-graph-dark/blob/main/pacman-contribution-graph-dark.svg)
   
 <div>
 <h2 align="center"> Sobre Mim </h2>
