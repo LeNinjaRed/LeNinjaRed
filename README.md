@@ -30,13 +30,6 @@
   <a href = "mailto:alexsandertlima@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/alexsander-t-lima" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
 </div>
-<br><br><br>
-<div align="center">
-<a href="https://github.com/LeNinjaRed">
-
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeNinjaRed&show_icons=true&theme=dark"/>
-</div>
-</div>
 
  <div align="center">
    <h2> Linguagens e Ferramentas</h2>
