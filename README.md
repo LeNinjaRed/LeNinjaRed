@@ -20,7 +20,7 @@
 <b>Idade:</b> 23 anos
 </li>
 <li>
-<b>Ocupação:</b> Estudante Universitário - ADMINISTRAÇÃO
+<b>Ocupação:</b> Estudante Universitário - Ciências de Dados
 </li>
 <li>
 <b>Interesses:</b> Análise de Dados & BI
